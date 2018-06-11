@@ -1,0 +1,7 @@
+{
+    "proj-name": {
+        "receiver": "localhost:9999/receiver.php",
+        "root": "/path/on/remote/machine/",
+        "path": "./path/on/local/machine/"
+    }
+}
